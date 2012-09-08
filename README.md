@@ -2,7 +2,7 @@
 
 ## Upgrade Key
 
-It's arguably unwise to allow anonymous visitors to regenerate caches by executing Elgg's `upgrade.php`. If you agree you may use this plugin.
+This plugin prevents anonymous visitors from regenerating caches by executing Elgg's `upgrade.php` script.
 
 ### Setup
 
