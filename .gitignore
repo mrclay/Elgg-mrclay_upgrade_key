@@ -1,0 +1,13 @@
+/my_tests/*.php
+!/my_tests/example.php
+
+# junk
+*~
+/nbproject
+/nb-configuration.xml
+Session.vim
+*.tmproj
+*.tmproject
+tmtags
+Thumbs.db
+Desktop.ini
